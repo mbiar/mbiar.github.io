@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mbiar.github.io/rPt/sitemap.rPt.gz
